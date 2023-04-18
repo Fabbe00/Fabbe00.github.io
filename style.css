@@ -1,3 +1,9 @@
 body{
     background-color: grey;
+    background-repeat: no-repeat;
+    background-position-x:center;
+    background-position-y:center;
+    background-size: 1000px 800px;
+    background-image: url("https://www.travelwisconsin.com/uploads/places/7d/7d1eec60-af92-4c21-a99f-fdda86224e2a-1475827_569999223083822_608839777_n[1].jpg");
+    
 }
