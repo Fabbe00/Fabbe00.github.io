@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    padding: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.listabilar_div{
+    background-color: burlywood;
+    margin: 1.2rem;
+    width: 50%;
+    border-radius: 1.2rem;
+    padding: 0.6rem;
+    border-width: 5px;
+    border-style: groove;
+    border-color: orangered;
+}
+h1{
+    margin: 0.2rem;
+}
